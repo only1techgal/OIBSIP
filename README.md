@@ -24,6 +24,6 @@ ___
    ```bash
     git clone https://github.com/only1techgal/numcruncher.git
    ```
-   cd NumCruncher
+   -> cd NumCruncher
 
-   open index.html
+   -> open index.html
