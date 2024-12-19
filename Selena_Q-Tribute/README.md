@@ -16,7 +16,7 @@ This is a Tribute page dedicated to the iconic Selena Quintanilla, about her lif
  ### **How to view**
  - 1. Clone this repository to your local machine:
      ```bash
-        git clone https://github.com/only1techgal/tribute-page.git
+        git clone https://github.com/only1techgal/Selena_Q-Tribute.git
      ```
  - 2. Navigate to the project directory:
      ```bash
