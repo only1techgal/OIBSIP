@@ -20,9 +20,9 @@ This is a Tribute page dedicated to the iconic Selena Quintanilla, about her lif
      ```
  - 2. Navigate to the project directory:
      ```bash
-        cd selena
+        cd Selena_Q-Tribute
      ```
  - 3. Open the index.html file in your browser to view the page.
- 
+
 
 
