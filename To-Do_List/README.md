@@ -1,10 +1,10 @@
-# ***Tick It Off: A Basic To-do App***
+# ***GoalGetter: A Basic To-do App***
 
 ***Description:***
 The Basic To-Do List Web App is an application which is user-friendly that helps nusers manage their daily tasks effectively. The app allows the users to add, edit, and delete tasks, as well as mark tasks whuich have been completed. It provides a clear separation for tasks into Pending Tasks and Completed tasks for better organization.
 
 ### ***Features***
-- Add Tasks: Easily add new tasks to the to-do list.
+- Adds Tasks: Easily add new tasks to the to-do list.
 - Edit tasks: Modify task descriptions as needed.
 - Delete tasks: Remove tasks when they are no longer needed.
 - Mark as Complete: Mark tasks as completed to move them to the Completed tasks list.
