@@ -30,7 +30,7 @@ ___
 1. **Clone the repository:**
    To install, clone the repository to your local machine:
    ```bash
-    git clone https://github.com/only1techgal/Login_Authentication_System.git
+    git clone https://github.com/only1techgal/OIBSIP.git
    ```
    -> cd Login_Authentication_System
 
